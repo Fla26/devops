@@ -13,10 +13,10 @@ Vagrantfile
 - NOME DA MAQUINA
 - PROVISION
   - SCRIPT
-  - ANSIBÇE
+  - ANSIBLE
   - PIPPET
 
-  Comando na maquina fisica.
+  Comando para iniciar na maquina fisica.
 
   vagrant init ubuntu/focal64
   vagrant destroy
